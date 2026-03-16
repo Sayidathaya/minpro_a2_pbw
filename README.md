@@ -2,6 +2,12 @@
 
 ## 📌 Deskripsi Project
 
+<img width="1919" height="968" alt="Image" src="https://github.com/user-attachments/assets/717d8126-3e4c-4e4f-9745-2a33efd7692c" />
+
+<img width="1919" height="968" alt="Image" src="https://github.com/user-attachments/assets/882e50c0-1e82-45ff-b5bf-f62a58651430" />
+
+<img width="1919" height="967" alt="Image" src="https://github.com/user-attachments/assets/4dfce3b0-d176-4967-97e5-a5d35eddf83b" />
+
 Portfolio adalah website portfolio pribadi yang dibuat untuk menampilkan profil, kemampuan, pengalaman, dan sertifikat secara profesional dan modern. Website ini dirancang responsif, dinamis, serta mudah dikembangkan menggunakan pendekatan frontend modern.
 
 Project ini menampilkan integrasi antara struktur HTML, styling CSS, framework Bootstrap 5, serta reactive data binding menggunakan Vue JS.
