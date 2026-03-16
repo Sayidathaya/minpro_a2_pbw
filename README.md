@@ -10,8 +10,6 @@ Website ini terdiri dari dua sisi utama:
 - **Sisi Publik (User)** — Halaman yang bisa dilihat oleh siapa saja tanpa perlu login, menampilkan profil, skills, pengalaman, pendidikan, proyek, dan sertifikat secara menarik dan responsif.
 - **Sisi Admin** — Panel khusus yang hanya bisa diakses oleh admin (pemilik portofolio) setelah login, digunakan untuk mengelola seluruh isi konten website melalui fitur CRUD (Create, Read, Update, Delete).
 
-Website: https://sayidathaya.github.io/minpro_a1_pbw/
-
 ---
 
 # TAMPILAN
