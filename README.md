@@ -2,7 +2,9 @@
 
 ## 📌 Deskripsi Project
 
-Website ini adalah **portofolio personal dinamis** milik Sayid Rafi A'thaya, seorang Frontend Developer & UI Designer dari Samarinda, Kalimantan Timur. Website dibangun sebagai tugas akhir mata kuliah Pemrograman Web dengan tujuan mengimplementasikan data dari database ke tampilan website secara dinamis, artinya seluruh konten website diambil langsung dari database MySQL, bukan hardcode di dalam kode.
+Website ini adalah **portofolio personal dinamis** milik saya sendiri, Sayid Rafi A'thaya.
+
+Seorang Frontend Developer & UI Designer dari Samarinda (Aamiin), Kalimantan Timur. Website dibangun sebagai tugas akhir mata kuliah Pemrograman Web dengan tujuan mengimplementasikan data dari database ke tampilan website secara dinamis, artinya seluruh konten website diambil langsung dari database MySQL, bukan hardcode di dalam kode.
 
 Website ini terdiri dari dua sisi utama:
 - **Sisi Publik (User)** — Halaman yang bisa dilihat oleh siapa saja tanpa perlu login, menampilkan profil, skills, pengalaman, pendidikan, proyek, dan sertifikat secara menarik dan responsif.
