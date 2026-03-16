@@ -2,37 +2,13 @@
 
 ## 📌 Deskripsi Project
 
-Website ini adalah **portofolio personal dinamis** milik Sayid Rafi A'thaya, seorang Frontend Developer & UI Designer dari Samarinda, Kalimantan Timur. Website dibangun sebagai tugas akhir mata kuliah Pemrograman Web dengan tujuan mengimplementasikan data dari database ke tampilan website secara dinamis, artinya seluruh konten website diambil langsung dari database MySQL, bukan hardcode di dalam kode.
+Website ini adalah **portofolio personal dinamis** milik Sayid Rafi A'thaya, seorang Frontend Developer & UI Designer dari Samarinda, Kalimantan Timur. Website dibangun sebagai tugas akhir mata kuliah Pemrograman Web dengan tujuan mengimplementasikan data dari database ke tampilan website secara dinamis — artinya seluruh konten website diambil langsung dari database MySQL, bukan hardcode di dalam kode.
 
-Project ini menampilkan integrasi antara struktur HTML, styling CSS, framework Bootstrap 5, serta reactive data binding menggunakan Vue JS.
+Website ini terdiri dari dua sisi utama:
+- **Sisi Publik (User)** — Halaman yang bisa dilihat oleh siapa saja tanpa perlu login, menampilkan profil, skills, pengalaman, pendidikan, proyek, dan sertifikat secara menarik dan responsif.
+- **Sisi Admin** — Panel khusus yang hanya bisa diakses oleh admin (pemilik portofolio) setelah login, digunakan untuk mengelola seluruh isi konten website melalui fitur CRUD (Create, Read, Update, Delete).
 
 Website: https://sayidathaya.github.io/minpro_a1_pbw/
-
----
-
-# 🛠 Teknologi yang Digunakan
-
-Project ini dibangun menggunakan teknologi berikut:
-
-* **HTML5** → Struktur utama halaman website
-* **CSS3** → Styling dan tampilan visual
-* **Bootstrap 5.3.2** → Framework CSS untuk layout responsif dan komponen siap pakai
-* **Vue JS 3 (CDN)** → Reactive data binding dan dynamic rendering
-* **JavaScript (ES6)** → Logika interaktif
-
----
-
-# 📂 Struktur Halaman
-
-Website ini terdiri dari beberapa bagian utama:
-
-1. Navbar
-2. Hero Section
-3. About Me Section
-4. Certificates Section
-5. Footer
-6. Vue JS Data System
-7. Styling (style.css)
 
 ---
 
@@ -44,19 +20,7 @@ Website ini terdiri dari beberapa bagian utama:
 
 <img width="1919" height="967" alt="Image" src="https://github.com/user-attachments/assets/4dfce3b0-d176-4967-97e5-a5d35eddf83b" />
 
-# 🌐 Website Portofolio Sayid Rafi A'thaya
-
-> **Proyek Akhir Pemrograman Web** — Sistem Portofolio Personal Dinamis berbasis PHP, MySQL, Bootstrap 5, dan Vue JS 3 dengan fitur CRUD lengkap dan autentikasi admin.
-
 ---
-
-## 📌 Deskripsi Website
-
-Website ini adalah **portofolio personal dinamis** milik Sayid Rafi A'thaya, seorang Frontend Developer & UI Designer dari Samarinda, Kalimantan Timur. Website dibangun sebagai tugas akhir mata kuliah Pemrograman Web dengan tujuan mengimplementasikan data dari database ke tampilan website secara dinamis — artinya seluruh konten website diambil langsung dari database MySQL, bukan hardcode di dalam kode.
-
-Website ini terdiri dari dua sisi utama:
-- **Sisi Publik (User)** — Halaman yang bisa dilihat oleh siapa saja tanpa perlu login, menampilkan profil, skills, pengalaman, pendidikan, proyek, dan sertifikat secara menarik dan responsif.
-- **Sisi Admin** — Panel khusus yang hanya bisa diakses oleh admin (pemilik portofolio) setelah login, digunakan untuk mengelola seluruh isi konten website melalui fitur CRUD (Create, Read, Update, Delete).
 
 ### Teknologi yang Digunakan
 
@@ -586,13 +550,3 @@ Klik **Logout** di bagian bawah sidebar → session dihapus → diarahkan ke hal
 - Kolom `BASE_URL` di `config/koneksi.php` harus disesuaikan jika nama folder berbeda atau saat deploy ke hosting
 
 ---
-
-## 👨‍💻 Tentang Pengembang
-
-**Sayid Rafi A'thaya**
-Frontend Developer & UI Designer
-📍 Samarinda, Kalimantan Timur
-
----
-
-*© 2026 Sayid Rafi A'thaya — Proyek Akhir Pemrograman Web*
