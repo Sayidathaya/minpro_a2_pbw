@@ -22,6 +22,8 @@ Website: https://sayidathaya.github.io/minpro_a1_pbw/
 
 <img width="1919" height="967" alt="Image" src="https://github.com/user-attachments/assets/4dfce3b0-d176-4967-97e5-a5d35eddf83b" />
 
+<img width="1477" height="701" alt="Image" src="https://github.com/user-attachments/assets/1a991ea9-d122-4d80-b808-c67815cb64de" />
+
 ---
 
 ### Teknologi yang Digunakan
